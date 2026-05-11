@@ -13,3 +13,6 @@ div#map {
     text-decoration: underline dotted;
     cursor: pointer;
 }
+body {
+    background-color: rgb(150, 103, 80);
+}
