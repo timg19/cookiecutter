@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title type="main">Über das Projekt</title>
+              <title type="sub">Briefe an Kraus</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>
+               Diese Website habe ich, Tim Grassegger, im Rahmen der Lehrveranstaltung 'Aus dem Archiv ins Frontend: Digitale Editionen als Statische Webseiten' mit DSE-Static-Cookiecutter erstellt.
+           </p>
+        </body>
+    </text>
+  </TEI>
+  

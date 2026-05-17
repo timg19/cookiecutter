@@ -16,3 +16,15 @@ div#map {
 body {
     background-color: rgb(150, 103, 80);
 }
+
+nav {
+    background-color: rgb(80, 95, 150);
+}
+
+:root {
+    --bs-tertiary-bg-rgb: 146, 24, 146;
+}
+
+h1{
+    margin-top: 20px;
+}

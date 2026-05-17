@@ -71,7 +71,7 @@
         <include name="*.html"/>
         <replacetoken>xmlns="http://www.w3.org/1999/xhtml"</replacetoken>
     </replace>
-    <copy todir="${target}" flatten="true">
+    <copy todir="${target_xml}" flatten="true">
         <fileset dir="./data/">
             <include name="**/*.xml"/>
         </fileset>

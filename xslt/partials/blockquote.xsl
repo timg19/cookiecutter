@@ -8,6 +8,9 @@
         <xsl:param name="customUrl" select="$base_url"></xsl:param>
         <xsl:variable name="fullUrl" select="concat($customUrl, $pageId)"/>
         <div>
+            <h3>Aus dem Archiv ins Frontend 
+                <br></br>
+                Cookiecutter-basierte Website über Briefe um Karl Kraus.</h3>
             <h2 class="fs-4">How to cite</h2>
             <blockquote class="blockquote">
                 <p>
