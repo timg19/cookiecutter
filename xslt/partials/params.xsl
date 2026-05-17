@@ -10,6 +10,6 @@
     <xsl:param name="github_url">https://github.com/timg19/cookiecutter</xsl:param>
     <xsl:param name="html_title">staticsite</xsl:param>
     <xsl:param name="project_logo">images/logo.png</xsl:param>
-    <xsl:param name="base_url">https://timg19.github.io/cookiecutter/</xsl:param>
+    <xsl:param name="base_url">https://github.com/timg19/cookiecutter</xsl:param>
     <xsl:param name="data_repo">https://github.com/timg19/Briefe_Kraus_etc</xsl:param>
 </xsl:stylesheet>
